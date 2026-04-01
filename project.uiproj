@@ -1,0 +1,6 @@
+{
+  "Name": "WebScraping",
+  "ProjectType": "Process",
+  "Description": "Extract data from a website (table/list) and Save into Excel   ",
+  "MainFile": "Main.xaml"
+}
